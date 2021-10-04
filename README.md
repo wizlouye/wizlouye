@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wizlouye
 - 👀 I’m interested in html/CSS/JS and CyberSecurity
-- 🌱 I’m currently learning CyberSecurity, data-center, cloud, virtualisation, IAAS and PAAS infrastruture, cloud architechture, devops at ESEO in France
+- 🌱 I’m currently learning CyberSecurity, data-center, cloud, virtualisation, IAAS and PAAS infrastruture, cloud architechture, devops at ESEO in France and Web Dev by my own.
 - 📫 reach me via mail 
 
 <!---
